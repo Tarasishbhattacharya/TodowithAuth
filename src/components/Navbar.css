@@ -1,0 +1,12 @@
+
+.nav_cont ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+
+}
+.nav_cont{
+    border: 1px solid black;
+    background-color: black;
+    color: beige;
+}
